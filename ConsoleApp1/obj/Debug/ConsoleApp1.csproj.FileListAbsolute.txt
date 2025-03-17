@@ -1,7 +1,0 @@
-C:\git\leti_example\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
-C:\git\leti_example\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
-C:\git\leti_example\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
-C:\git\leti_example\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
-C:\git\leti_example\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
-C:\git\leti_example\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
-C:\git\leti_example\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
